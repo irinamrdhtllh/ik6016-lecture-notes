@@ -8,7 +8,7 @@ This repository contains a collection of code examples and study materials desig
 
 ## Assignments
 - Weekly assignments will be given at the end of each class.
-- Each assignment must be completed within one week and submitted no later than one hour before the class starts on the Edunex platform.
+- Each assignment must be completed within one week and submitted no later than one hour before the class starts on Microsoft Teams platform.
 - **Upcoming Deadline**: Assignment 1 - 27 September 2024 12:00 p.m.
 
 ## Additional Resources
